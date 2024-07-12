@@ -1,15 +1,11 @@
-# Hola 👋, soy [Nombre del profesional]
+# Hola 👋, soy Liuva Salas Pérez
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
-
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
-
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Apasionada por el análisis de datos y la generación de ideas. Comprometida totalmente con la excelencia en la interpretación clara y correcta de la información para impulsar la toma de decisiones estratégicas. En búsqueda continua de desafíos que me permitan aplicar mis habilidades y contribuir al éxito empresarial
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
+- Puedes contactarme a través de mi correo electrónico: **<liuvasalas01@gmail.com>**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/liuva-salas)**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
@@ -19,10 +15,6 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 ### 🔨 Backend
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📎 Herramientas
 
