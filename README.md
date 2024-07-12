@@ -14,7 +14,7 @@ Apasionada por el análisis de datos y la generación de ideas. Comprometida tot
 
 ### 🔨 Backend
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+Soon-->
 
 ### 📎 Herramientas
 
