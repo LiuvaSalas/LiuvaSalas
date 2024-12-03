@@ -4,7 +4,7 @@ Apasionada por el análisis de datos y la generación de ideas. Comprometida tot
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<liuvasalas01@gmail.com>**
+- Puedes contactarme a través de mi correo electrónico: **<liuvasalas.ti@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/liuva-salas)**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
@@ -14,7 +14,7 @@ Apasionada por el análisis de datos y la generación de ideas. Comprometida tot
 
 ### 🔨 Backend
 
-Soon-->
+![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![ORM](https://img.shields.io/badge/ORM-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📎 Herramientas
 
