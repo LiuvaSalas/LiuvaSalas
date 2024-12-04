@@ -6,7 +6,7 @@ Apasionada por el análisis de datos y la generación de ideas. Comprometida tot
 
 - Puedes contactarme a través de mi correo electrónico: **<liuvasalas.ti@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/liuva-salas)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes visitar mi **[sitio web]([https://example.com](https://liuvasalas.github.io/Portafolio-Liuva-Salas/))**
 
 ### 🎨 Frontend
 
@@ -14,7 +14,7 @@ Apasionada por el análisis de datos y la generación de ideas. Comprometida tot
 
 ### 🔨 Backend
 
-![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![ORM](https://img.shields.io/badge/ORM-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ORM](https://img.shields.io/badge/ORM-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Django](https://img.shields.io/badge/DJANGO-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📎 Herramientas
 
