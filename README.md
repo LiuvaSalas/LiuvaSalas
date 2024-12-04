@@ -14,7 +14,7 @@ Apasionada por el análisis de datos y la generación de ideas. Comprometida tot
 
 ### 🔨 Backend
 
-![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ORM](https://img.shields.io/badge/ORM-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Django](https://img.shields.io/badge/DJANGO-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ORM](https://img.shields.io/badge/ORM-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Django](https://img.shields.io/badge/DJANGO-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGREsql-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📎 Herramientas
 
