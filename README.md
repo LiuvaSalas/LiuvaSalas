@@ -6,7 +6,7 @@ Apasionada por el análisis de datos y la generación de ideas. Comprometida tot
 
 - Puedes contactarme a través de mi correo electrónico: **<liuvasalas.ti@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/liuva-salas)**
-- Puedes visitar mi **[sitio web](https://example.com](https://liuvasalas.github.io/Portafolio-Liuva-Salas/)**
+- Puedes visitar mi **[sitio web](https://liuvasalas.github.io/Portafolio-Liuva-Salas/)**
 
 ### 🎨 Frontend
 
